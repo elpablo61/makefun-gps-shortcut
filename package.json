@@ -1,0 +1,1 @@
+{"description":"The GPS's one-line excuse for sending the driver down the wrong road (make.fun bounty).","license":"MIT","name":"makefun-gps-shortcut","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
